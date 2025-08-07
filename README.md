@@ -51,6 +51,17 @@ PS
 <br>
 <img width="574" height="414" alt="螢幕擷取畫面 2025-08-07 140851" src="https://github.com/user-attachments/assets/6f011bdf-1a52-4876-8f41-fe5588b907dd" />
 <br>
+3.修改訂單
+<br>
+<img width="446" height="298" alt="螢幕擷取畫面 2025-08-07 154338" src="https://github.com/user-attachments/assets/c711f874-925f-4047-ad6e-47e7fc6a4e7f" />
+<img width="447" height="293" alt="螢幕擷取畫面 2025-08-07 154411" src="https://github.com/user-attachments/assets/0ff76e7b-deca-434c-a43d-502c757b5f71" />
+<br>
+4.刪除訂單
+<br>
+<img width="446" height="297" alt="螢幕擷取畫面 2025-08-07 154432" src="https://github.com/user-attachments/assets/a1cc3a9c-f0b2-47e7-8950-228f8e58fd2b" />
+<img width="445" height="296" alt="螢幕擷取畫面 2025-08-07 154446" src="https://github.com/user-attachments/assets/7b1be5a3-f739-487c-b541-cfa4002fe85d" />
+
+
 
 
 
