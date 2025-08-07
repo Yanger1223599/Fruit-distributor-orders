@@ -6,6 +6,8 @@
 <br>
 <img width="437" height="291" alt="螢幕擷取畫面 2025-08-07 135958" src="https://github.com/user-attachments/assets/0d935154-f595-4e52-b898-afaf7585065f" />
 <br>
+<img width="447" height="296" alt="螢幕擷取畫面 2025-08-07 154920" src="https://github.com/user-attachments/assets/d290c20b-b9d4-45f6-a2df-68a42dc643f0" />
+<br>
 2.用剛剛的帳密登入
 <br>
 <img width="361" height="245" alt="螢幕擷取畫面 2025-08-07 140028" src="https://github.com/user-attachments/assets/31967a29-9f07-4270-a73a-9c9f530500fa" />
